@@ -1,3 +1,5 @@
+This User Management Web App allows users to view, add, edit, and manage user profiles efficiently. Built with React.js for the frontend and Material UI for a modern design, it integrates Reqres APIs for seamless data handling. The app ensures responsiveness with custom CSS and provides an intuitive UI for managing user information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
